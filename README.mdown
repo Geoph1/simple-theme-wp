@@ -1,6 +1,8 @@
 ## My simple theme framevork
 
 version 1.0
+
 Collection  tipical files wich used in wp theme.
+
 For simple and fast work.
 
